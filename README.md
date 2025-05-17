@@ -37,7 +37,7 @@ Passionate about building **user-centered digital solutions**
 
 <p align="left">
     <a href="https://www.codewars.com/users/GuzideGuzelbey" target="_blank">
-    <img src="https://www.codewars.com/users/GuzideGuzelbey/badges/micro" alt="Codewars Badge" width="40" />
+    <img src="https://www.codewars.com/users/GuzideGuzelbey/badges/micro" alt="Codewars Badge" height="40" />
   </a>
 </p>
 
