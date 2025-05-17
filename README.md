@@ -35,9 +35,11 @@ Passionate about building **user-centered digital solutions**
 | :---: | :---: |
 | <img src="https://skillicons.dev/icons?i=docker,powershell,vscode,git,github,netlify,postman" height="40" /> | <img src="https://skillicons.dev/icons?i=figma,ps,ai,slack" height="40" /> |
 
-<p align="left"><a href="https://www.codewars.com/users/GuzideGuzelbey">
-    <img src="https://camo.githubusercontent.com/ac0c29de2a1dbfb4904e5d1d4960c5e64bac41ff8bcf74628a8f4a6e7ad54a5f/68747470733a2f2f7777772e636f6465776172732e636f6d2f75736572732f53616e612d5368616265656c2f626164676765732f6d6963726f" alt="Codewars Badge" width="40" />
-  </a></p>
+<p align="left">
+    <a href="https://www.codewars.com/users/GuzideGuzelbey" target="_blank">
+    <img src="https://www.codewars.com/users/GuzideGuzelbey/badges/micro" alt="Codewars Badge" width="40" />
+  </a>
+</p>
 
 ## 🔎 **Fun Fact:**  
 I am passionate about community building and love bringing people together—whether it's through networking events, singing, dancing, or a good yoga session. 
