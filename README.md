@@ -48,11 +48,11 @@ I am passionate about community building and love bringing people together—whe
 
 ### GitHub Statistics  
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GuzideGuzelbey&theme=dark" alt="GitHub Streak Stats" />  
   <img src="https://github-readme-stats.vercel.app/api?username=GuzideGuzelbey&show_icons=true&theme=dark" alt="GitHub Stats" />  
 </p>  
+
 ### Top Languages 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuzideGuzelbey&layout=compact&theme=default" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuzideGuzelbey&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
