@@ -12,6 +12,8 @@
 <p>
   Passionate about building user-centered digital solutions
 </p>
+### :wink: **Fun Fact about me:**  
+I am passionate about community building and love bringing people together—whether it's through networking events, singing, dancing, or a good yoga session. 
 
 ### **Currently Learning:**  
 -  **SQL & Python for Data Analytics**  
@@ -43,5 +45,13 @@
   </a>
 </p>
 
-### :wink: **Fun Fact about me:**  
-I am passionate about community building and love bringing people together—whether it's through networking events, singing, dancing, or a good yoga session. 
+### GitHub Statistics  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GuzideGuzelbey&theme=default" alt="GitHub Streak Stats" />  
+  <img src="https://github-readme-stats.vercel.app/api?username=GuzideGuzelbey&show_icons=true&theme=default" alt="GitHub Stats" />  
+</p>  
+### Top Languages 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuzideGuzelbey&layout=compact&theme=default" alt="Top Languages" />
+</p>
+
