@@ -12,11 +12,11 @@
 
 Passionate about building **user-centered digital solutions**
 
-### 💡 **Currently Learning:**  
+### **Currently Learning:**  
 -  **SQL & Python for Data Analytics**  
 -  **Advanced Next.js features**
 
-##**Reach me via**  
+## **Reach me via**  
 <p align="left">
   <a href="(https://bit.ly/4kqoEq9)" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="35"/>
@@ -26,7 +26,7 @@ Passionate about building **user-centered digital solutions**
   </a>
 </p>  
 
-##**Skills**  
+## **Skills**  
 | Frontend Development | Backend Development |
 | :---: | :---: |
 | <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,materialui,react,nextjs" height="40" /> | <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,postgres" height="40" /> |
@@ -35,7 +35,7 @@ Passionate about building **user-centered digital solutions**
 | :---: | :---: |
 | <img src="https://skillicons.dev/icons?i=docker,powershell,vscode,git,github,netlify,postman" height="40" /> | <img src="https://skillicons.dev/icons?i=figma,ps,ai,slack" height="40" /> |
 
-##**Badges**  
+## **Badges**  
 <p align="left">
     <a href="https://www.codewars.com/users/GuzideGuzelbey" target="_blank">
     <img src="https://www.codewars.com/users/GuzideGuzelbey/badges/micro" alt="Codewars Badge" height="30" />
