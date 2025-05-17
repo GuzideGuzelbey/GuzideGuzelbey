@@ -15,7 +15,7 @@
 
 **DevOps & Tools:** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="50"/>  
 
-**Design & Collaboration:** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="50"/>  
+**Design & Collaboration:** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40"/>  
 
 
 
@@ -25,8 +25,14 @@
 
 
 ## 📫 **How to reach me:**  
-- 📧 **Email:** guzide.guzelbey@gmail.com  
-- 🔗 **LinkedIn:** [Güzide Güzelbey Esengün](your-linkedin-url) 
+<p align="left">
+  <a href="mailto:guzide.guzelbey@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/email.png" alt="Email" width="40" />
+  </a>
+  <a href="[https://www.linkedin.com/in/your-linkedin-url](https://bit.ly/4kqoEq9)" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" />
+  </a>
+</p>  
 
 
 ## 🔎 **Fun Fact:**  
