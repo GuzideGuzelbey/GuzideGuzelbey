@@ -31,7 +31,7 @@ Passionate about building **user-centered digital solutions**
 
 **Backend:** <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,postgres" /> 
 
-**DevOps & Tools:** <img src="https://skillicons.dev/icons?i=docker,powershell,vscode,git,github,netlify,postman," /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="50"/>  
+**DevOps & Tools:** <div><img src="https://skillicons.dev/icons?i=docker,powershell,vscode,git,github,netlify,postman," /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="50"/></div>  
 
 **Design & Collaboration:** <img src="https://skillicons.dev/icons?i=figma,ps,ai,slack" />
 
