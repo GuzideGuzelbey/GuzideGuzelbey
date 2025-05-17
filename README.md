@@ -27,8 +27,7 @@ Passionate about building **user-centered digital solutions**
 
 ## 🚀 **Tech Stack:**  
 
-**Frontend:** 
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,materialui,react,nextjs" />  
+<div><h3>Frontend:</h3><img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,materialui,react,nextjs" /></div> 
 
 **Backend:** 
 <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,postgres" /> 
