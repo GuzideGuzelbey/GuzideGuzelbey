@@ -16,6 +16,9 @@ Passionate about building **user-centered digital solutions**
 -  **SQL & Python for Data Analytics**  
 -  **Advanced Next.js features**
 
+### :wink: **Fun Fact**  
+I am passionate about community building and love bringing people together—whether it's through networking events, singing, dancing, or a good yoga session. 
+
 ### **Reach me via**  
 <p align="left">
   <a href="(https://bit.ly/4kqoEq9)" target="_blank">
@@ -42,5 +45,16 @@ Passionate about building **user-centered digital solutions**
   </a>
 </p>
 
-### :wink: **Fun Fact**  
-I am passionate about community building and love bringing people together—whether it's through networking events, singing, dancing, or a good yoga session. 
+### **GitHub Stats**  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GuzideGuzelbey&theme=default" alt="GitHub Streak Stats" />  
+  <img src="https://github-readme-stats.vercel.app/api?username=GuzideGuzelbey&show_icons=true&theme=default" alt="GitHub Stats" />  
+</p>  
+
+### **Top Languages**  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GuzideGuzelbey&theme=default" alt="GitHub Streak Stats" />  
+  <img src="https://github-readme-stats.vercel.app/api?username=GuzideGuzelbey&show_icons=true&theme=default" alt="GitHub Stats" />  
+</p> 
+
+
