@@ -19,10 +19,10 @@ Passionate about building **user-centered digital solutions**
 ## 📫 **Reach me via:**  
 <p align="left">
   <a href="(https://bit.ly/4kqoEq9)" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" height="35"/>
   </a>
   <a href="mailto:guzide.guzelbey@gmail.com" target="_blank" >
-    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+    <img src="https://skillicons.dev/icons?i=gmail" height="35"/>
   </a>
 </p>  
 
