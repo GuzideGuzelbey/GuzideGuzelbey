@@ -6,8 +6,7 @@
 
 <h2 align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=7000&pause=1000&color=1DDBF7&center=true&vCenter=true&multiline=true&width=435&lines=Full+Stack+Developer+" alt="Typing SVG" /></a>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=7000&pause=1000&color=1DDBF7&center=true&vCenter=true&multiline=true&width=435&lines=BSc+and+MSc" alt="Typing SVG" /></a>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=7000&pause=1000&color=1DDBF7&center=true&vCenter=true&multiline=true&width=435&lines=Industrial+Product+Design" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=300&color=1DDBF7&center=true&vCenter=true&multiline=true&width=435&height=80&lines=BSc+%26+MSc;Industrial+Product+Design" alt="Typing SVG" /></a>
 </h2> 
 
 **Career switcher** from Industrial Product Design to **Software Development**  
