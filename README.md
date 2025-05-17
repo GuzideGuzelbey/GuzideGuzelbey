@@ -26,11 +26,11 @@ Passionate about building **user-centered digital solutions**
 
 
 ## 🚀 **Tech Stack:**  
-| 🌐 Frontend Development | 🔗 Backend Development |
+| Frontend Development | Backend Development |
 | :---: | :---: |
 | <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,materialui,react,nextjs" height="40" /> | <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,postgres" height="40" /> |
 
-| 🛠️ DevOps & Tools | 🎨 Design & Collaboration |
+|  DevOps & Tools |  Design & Collaboration |
 | :---: | :---: |
 | <img src="https://skillicons.dev/icons?i=docker,powershell,vscode,git,github,netlify,postman" height="40" /> | <img src="https://skillicons.dev/icons?i=figma,ps,ai,slack" height="40" /> |
 
