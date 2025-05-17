@@ -12,17 +12,17 @@
 
 Passionate about building **user-centered digital solutions**
 
-## 🌱 **Currently Learning:**  
+## 💡 **Currently Learning:**  
 -  **SQL & Python for Data Analytics**  
 -  **Advanced Next.js features**
 
 ## 📫 **Reach me via:**  
 <p align="left">
   <a href="(https://bit.ly/4kqoEq9)" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
-  <a href="mailto:guzide.guzelbey@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" />
+  <a href="mailto:guzide.guzelbey@gmail.com" target="_blank" >
+    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
   </a>
 </p>  
 
