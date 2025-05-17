@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=GuzideGuzelbey.GuzideGuzelbey" />
+
 
 <h1 align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=F616F7&center=true&vCenter=true&width=435&lines=%F0%9F%91%80+Hi!+I'm+G%C3%BCzide" alt="Typing SVG" /></a>
@@ -22,7 +22,7 @@ I am passionate about community building and love bringing people together—whe
 
 ### **Reach me via:**  
 <p align="left">
-  <a href="(https://bit.ly/4kqoEq9)" target="_blank">
+  <a href="https://bit.ly/4kqoEq9" target="_blank">
     <img src="https://img.icons8.com/?size=100&id=8808&format=png&color=FFFFFF" alt="LinkedIn" height="35" />
   </a>
   <a href="mailto:guzide.guzelbey@gmail.com" target="_blank" >
@@ -39,20 +39,20 @@ I am passionate about community building and love bringing people together—whe
 | :---: | :---: |
 | <img src="https://skillicons.dev/icons?i=docker,powershell,vscode,git,github,netlify,postman" height="40" /> | <img src="https://skillicons.dev/icons?i=figma,ps,ai,slack" height="40" /> |
 
-### **Badges:**  
+### **Badges & Stats:**  
 <p align="left">
     <a href="https://www.codewars.com/users/GuzideGuzelbey" target="_blank">
     <img src="https://www.codewars.com/users/GuzideGuzelbey/badges/micro" alt="Codewars Badge" height="30" />
   </a>
 </p>
-
-### GitHub Statistics  
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=GuzideGuzelbey&show_icons=true&theme=dark" alt="GitHub Stats" />  
 </p>  
-
-### Top Languages 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuzideGuzelbey&layout=compact&theme=dark" alt="Top Languages" />
 </p>
+
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=GuzideGuzelbey.GuzideGuzelbey" />
+
+
 
