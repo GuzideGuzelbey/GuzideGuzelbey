@@ -12,6 +12,7 @@
 <p>
   Passionate about building user-centered digital solutions
 </p>
+
 ### :wink: **Fun Fact about me:**  
 I am passionate about community building and love bringing people together—whether it's through networking events, singing, dancing, or a good yoga session. 
 
