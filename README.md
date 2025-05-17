@@ -1,6 +1,6 @@
 # ![Animated Eyes] Hi, I'm Güzide Güzelbey Esengün  
 
-## **Full Stack Developer** 
+## *Full Stack Developer with BSc and MSc in Industrial Product Design* 
 
 🔄 **Career switcher** from Industrial Product Design to **Software Development**  
 
