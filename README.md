@@ -26,11 +26,11 @@
 
 ## 📫 **How to reach me:**  
 <p align="left">
-  <a href="mailto:guzide.guzelbey@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/email.png" alt="Email" width="40" />
-  </a>
   <a href="[https://www.linkedin.com/in/your-linkedin-url](https://bit.ly/4kqoEq9)" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" />
+  </a>
+  <a href="mailto:guzide.guzelbey@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/email.png" alt="Email" width="40" />
   </a>
 </p>  
 
