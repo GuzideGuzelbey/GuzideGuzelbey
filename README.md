@@ -21,12 +21,10 @@ Passionate about building **user-centered digital solutions**
   <a href="(https://bit.ly/4kqoEq9)" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
-    <br/>
   <a href="mailto:guzide.guzelbey@gmail.com" target="_blank" >
     <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
   </a>
 </p>  
-
 
 ## 🚀 **Tech Stack:**  
 | Frontend Development | Backend Development |
@@ -36,6 +34,10 @@ Passionate about building **user-centered digital solutions**
 |  DevOps & Tools |  Design & Collaboration |
 | :---: | :---: |
 | <img src="https://skillicons.dev/icons?i=docker,powershell,vscode,git,github,netlify,postman" height="40" /> | <img src="https://skillicons.dev/icons?i=figma,ps,ai,slack" height="40" /> |
+
+<a href="https://www.codewars.com/users/GuzideGuzelbey">
+    <img src="https://camo.githubusercontent.com/ac0c29de2a1dbfb4904e5d1d4960c5e64bac41ff8bcf74628a8f4a6e7ad54a5f/68747470733a2f2f7777772e636f6465776172732e636f6d2f75736572732f53616e612d5368616265656c2f626164676765732f6d6963726f" alt="Codewars Badge" width="40" />
+  </a>
 
 ## 🔎 **Fun Fact:**  
 I am passionate about community building and love bringing people together—whether it's through networking events, singing, dancing, or a good yoga session. 
