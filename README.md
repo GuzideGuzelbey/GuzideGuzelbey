@@ -9,7 +9,7 @@
 </h2> 
 
 ### **A Career switcher** from Industrial Product Design to **Software Development**   
-<p align="center">
+<p>
   Passionate about building user-centered digital solutions
 </p>
 
