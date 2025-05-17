@@ -19,10 +19,10 @@ Passionate about building **user-centered digital solutions**
 ### **Reach me via:**  
 <p align="left">
   <a href="(https://bit.ly/4kqoEq9)" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=8808&format=png&color=FFFFFF" alt="LinkedIn" height="28" />
+    <img src="https://img.icons8.com/?size=100&id=8808&format=png&color=FFFFFF" alt="LinkedIn" height="35" />
   </a>
   <a href="mailto:guzide.guzelbey@gmail.com" target="_blank" >
-    <img src="https://img.icons8.com/?size=100&id=38158&format=png&color=FFFFFF" alt="Gmail" height="28" />
+    <img src="https://img.icons8.com/?size=100&id=38158&format=png&color=FFFFFF" alt="Gmail" height="35" />
   </a>
 </p>  
 
