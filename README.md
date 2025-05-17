@@ -52,9 +52,12 @@ I am passionate about community building and love bringing people together—whe
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuzideGuzelbey&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=GuzideGuzelbey.GuzideGuzelbey&type=flat-square
+<img align="right"
+     src="https://visitor-badge.laobi.icu/badge?page_id=GuzideGuzelbey.GuzideGuzelbey
+          &type=flat-square
           &labelColor=333333
-          &countColor=FFFFFF" />
+          &countColor=FFFFFF" 
+     alt="visitor badge" />
 
 
 
