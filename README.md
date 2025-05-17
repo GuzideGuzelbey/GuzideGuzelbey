@@ -53,11 +53,8 @@ I am passionate about community building and love bringing people together—whe
 </p>
 
 <img align="right"
-     src="https://visitor-badge.laobi.icu/badge?page_id=GuzideGuzelbey.GuzideGuzelbey
-          &type=flat-square
-          &labelColor=333333
-          &countColor=FFFFFF" 
-     alt="visitor badge" />
+     src="https://visitor-badge.laobi.icu/badge?page_id=GuzideGuzelbey.GuzideGuzelbey&type=flat-square&labelColor=333333&countColor=FFFFFF"
+     alt="Visitor Badge" />
 
 
 
