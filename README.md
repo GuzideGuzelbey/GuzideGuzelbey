@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=GuzideGuzelbey.GuzideGuzelbey" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Hi+There!+👀;+I'm+Güzide+Güzelbey Esengün;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Hi!+👀;+I'm+Güzide+Güzelbey Esengün;" />
 </h1> 
 
 ## **Full Stack Developer with BSc and MSc in Industrial Product Design** 
@@ -17,7 +17,7 @@
 ## 📫 **How to reach me:**  
 <p align="left">
   <a href="(https://bit.ly/4kqoEq9)" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" />
   </a>
   <a href="mailto:guzide.guzelbey@gmail.com" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="Gmail" width="40" />
