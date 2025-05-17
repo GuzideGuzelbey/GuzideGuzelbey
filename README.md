@@ -29,8 +29,7 @@ Passionate about building **user-centered digital solutions**
 
 <div><h3>Frontend:</h3><img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,materialui,react,nextjs" /></div> 
 
-**Backend:** 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,postgres" /> 
+<div><h3>Backend:<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,postgres" /></h3></div>
 
 **DevOps & Tools:** 
 <div><img src="https://skillicons.dev/icons?i=docker,powershell,vscode,git,github,netlify,postman," /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="50"/></div>  
