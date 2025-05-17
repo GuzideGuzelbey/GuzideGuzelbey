@@ -16,10 +16,7 @@ Passionate about building **user-centered digital solutions**
 -  **SQL & Python for Data Analytics**  
 -  **Advanced Next.js features**
 
-### :wink: **Fun Fact**  
-I am passionate about community building and love bringing people together—whether it's through networking events, singing, dancing, or a good yoga session. 
-
-### **Reach me via**  
+### **Reach me via:**  
 <p align="left">
   <a href="(https://bit.ly/4kqoEq9)" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="35"/>
@@ -29,7 +26,7 @@ I am passionate about community building and love bringing people together—whe
   </a>
 </p>  
 
-### **Skills**  
+### **Skills:**  
 | Frontend Development | Backend Development |
 | :---: | :---: |
 | <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,materialui,react,nextjs" height="40" /> | <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,postgres" height="40" /> |
@@ -38,23 +35,12 @@ I am passionate about community building and love bringing people together—whe
 | :---: | :---: |
 | <img src="https://skillicons.dev/icons?i=docker,powershell,vscode,git,github,netlify,postman" height="40" /> | <img src="https://skillicons.dev/icons?i=figma,ps,ai,slack" height="40" /> |
 
-### **Badges**  
+### **Badges:**  
 <p align="left">
     <a href="https://www.codewars.com/users/GuzideGuzelbey" target="_blank">
     <img src="https://www.codewars.com/users/GuzideGuzelbey/badges/micro" alt="Codewars Badge" height="30" />
   </a>
 </p>
 
-### **GitHub Stats**  
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GuzideGuzelbey&theme=default" alt="GitHub Streak Stats" />  
-  <img src="https://github-readme-stats.vercel.app/api?username=GuzideGuzelbey&show_icons=true&theme=default" alt="GitHub Stats" />  
-</p>  
-
-### **Top Languages**  
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GuzideGuzelbey&theme=default" alt="GitHub Streak Stats" />  
-  <img src="https://github-readme-stats.vercel.app/api?username=GuzideGuzelbey&show_icons=true&theme=default" alt="GitHub Stats" />  
-</p> 
-
-
+### :wink: **Fun Fact about me:**  
+I am passionate about community building and love bringing people together—whether it's through networking events, singing, dancing, or a good yoga session. 
