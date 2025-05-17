@@ -27,13 +27,17 @@ Passionate about building **user-centered digital solutions**
 
 ## 🚀 **Tech Stack:**  
 
-**Frontend:** <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,materialui,react,nextjs" />  
+**Frontend:** 
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,materialui,react,nextjs" />  
 
-**Backend:** <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,postgres" /> 
+**Backend:** 
+<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,postgres" /> 
 
-**DevOps & Tools:** <div><img src="https://skillicons.dev/icons?i=docker,powershell,vscode,git,github,netlify,postman," /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="50"/></div>  
+**DevOps & Tools:** 
+<div><img src="https://skillicons.dev/icons?i=docker,powershell,vscode,git,github,netlify,postman," /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="50"/></div>  
 
-**Design & Collaboration:** <img src="https://skillicons.dev/icons?i=figma,ps,ai,slack" />
+**Design & Collaboration:** 
+<img src="https://skillicons.dev/icons?i=figma,ps,ai,slack" />
 
 ## 🔎 **Fun Fact:**  
 I am passionate about community building and love bringing people together—whether it's through networking events, singing, dancing, or a good yoga session. 
