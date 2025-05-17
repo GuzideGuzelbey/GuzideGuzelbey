@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=GuzideGuzelbey.GuzideGuzelbey" />
 
 <h1 align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=F616F7&center=true&vCenter=true&width=435&lines=Hi!+%F0%9F%91%80+I'm+G%C3%BCzide" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=F616F7&center=true&vCenter=true&width=435&lines=%F0%9F%91%80+Hi!+I'm+G%C3%BCzide" alt="Typing SVG" /></a>
 </h1> 
 
 <h2 align="center">
