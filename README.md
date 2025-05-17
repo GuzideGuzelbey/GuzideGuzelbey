@@ -22,7 +22,7 @@ Passionate about building **user-centered digital solutions**
     <img src="https://img.icons8.com/?size=100&id=8808&format=png&color=FFFFFF" alt="LinkedIn" height="28" />
   </a>
   <a href="mailto:guzide.guzelbey@gmail.com" target="_blank" >
-    <img src="https://img.shields.io/badge/-Gmail-333333?style=flat&logo=gmail&logoColor=white" alt="Gmail" height="28" />
+    <img src="https://img.icons8.com/?size=100&id=38158&format=png&color=FFFFFF" alt="Gmail" height="28" />
   </a>
 </p>  
 
