@@ -41,5 +41,5 @@ Passionate about building **user-centered digital solutions**
   </a>
 </p>
 
-## :joy: **Fun Fact:**  
+## :wink: **Fun Fact:**  
 I am passionate about community building and love bringing people together—whether it's through networking events, singing, dancing, or a good yoga session. 
