@@ -4,7 +4,10 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=F616F7&center=true&vCenter=true&width=435&lines=Hi!+%F0%9F%91%80+I'm+G%C3%BCzide" alt="Typing SVG" /></a>
 </h1> 
 
-## **Full Stack Developer with BSc and MSc in Industrial Product Design** 
+<h2 align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=7000&pause=1000&color=1DDBF7&center=true&vCenter=true&multiline=true&width=435&lines=Full+Stack+Developer+" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=7000&pause=1000&color=1DDBF7&center=true&vCenter=true&multiline=true&width=435&lines=BSc+and+MSc" alt="Typing SVG" /></a>
+</h2> 
 
 **Career switcher** from Industrial Product Design to **Software Development**  
 
