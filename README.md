@@ -8,8 +8,10 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=100&color=1DDBF7&center=true&vCenter=true&multiline=true&width=440&height=89&lines=Full+Stack+Developer;BSc+%26+MSc;Industrial+Product+Design" alt="Typing SVG" /></a>
 </h2> 
 
-#### **A Career switcher** from Industrial Product Design to **Software Development**  
--  Passionate about building **user-centered digital solutions**
+### **A Career switcher** from Industrial Product Design to **Software Development**   
+<p align="center">
+  Passionate about building user-centered digital solutions
+</p>
 
 ### **Currently Learning:**  
 -  **SQL & Python for Data Analytics**  
