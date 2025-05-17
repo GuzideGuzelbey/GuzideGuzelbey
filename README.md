@@ -40,7 +40,7 @@ I am passionate about community building and love bringing people together—whe
 | <img src="https://skillicons.dev/icons?i=docker,powershell,vscode,git,github,netlify,postman" height="40" /> | <img src="https://skillicons.dev/icons?i=figma,ps,ai,slack" height="40" /> |
 
 ### **Badges & Stats:**  
-<p align="left">
+<p align="left">Codewars:
     <a href="https://www.codewars.com/users/GuzideGuzelbey" target="_blank">
     <img src="https://www.codewars.com/users/GuzideGuzelbey/badges/micro" alt="Codewars Badge" height="30" />
   </a>
