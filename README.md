@@ -17,13 +17,10 @@
 ## 📫 **How to reach me:**  
 <p align="left">
   <a href="(https://bit.ly/4kqoEq9)" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" />
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="mailto:guzide.guzelbey@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="Gmail" width="40" />
-  </a>
-  <a href="https://your-portfolio-link-if-available" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/portfolio.png" alt="Portfolio" width="40" />
+    <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>  
 
