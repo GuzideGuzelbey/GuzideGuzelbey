@@ -40,7 +40,7 @@ I am passionate about community building and love bringing people together—whe
 | <img src="https://skillicons.dev/icons?i=docker,powershell,vscode,git,github,netlify,postman" height="40" /> | <img src="https://skillicons.dev/icons?i=figma,ps,ai,slack" height="40" /> |
 
 ### **Badges & Stats:**  
-<p align="left">Codewars:
+<p align="left">
     <a href="https://www.codewars.com/users/GuzideGuzelbey" target="_blank">
     <img src="https://www.codewars.com/users/GuzideGuzelbey/badges/micro" alt="Codewars Badge" height="30" />
   </a>
@@ -52,7 +52,9 @@ I am passionate about community building and love bringing people together—whe
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuzideGuzelbey&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=GuzideGuzelbey.GuzideGuzelbey" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=GuzideGuzelbey.GuzideGuzelbey&type=flat-square
+          &labelColor=333333
+          &countColor=FFFFFF" />
 
 
 
