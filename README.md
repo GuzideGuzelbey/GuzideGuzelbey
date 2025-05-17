@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=GuzideGuzelbey.GuzideGuzelbey" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Hi!+👀;+I'm+Güzide+Güzelbey Esengün;" />
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F616F7&width=435&lines=Hi!+%F0%9F%91%80+;I'm+G%C3%BCzide+G%C3%BCzelbey+Eseng%C3%BCn" alt="Typing SVG" /></a>
 </h1> 
 
 ## **Full Stack Developer with BSc and MSc in Industrial Product Design** 
