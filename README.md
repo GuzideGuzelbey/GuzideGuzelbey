@@ -6,15 +6,15 @@
 
 ## **Full Stack Developer with BSc and MSc in Industrial Product Design** 
 
-🔄 **Career switcher** from Industrial Product Design to **Software Development**  
+**Career switcher** from Industrial Product Design to **Software Development**  
 
-💡 Passionate about building **user-centered digital solutions**
+Passionate about building **user-centered digital solutions**
 
 ## 🌱 **Currently Learning:**  
-- 📌 **SQL & Python for Data Analytics**  
-- 📌 **Advanced Next.js features**
+-  **SQL & Python for Data Analytics**  
+-  **Advanced Next.js features**
 
-## 📫 **How to reach me:**  
+## 📫 **Reach me via:**  
 <p align="left">
   <a href="(https://bit.ly/4kqoEq9)" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
@@ -31,8 +31,7 @@
 
 **Backend:** <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,postgres" /> 
 
-**DevOps & Tools:** <img src="https://skillicons.dev/icons?i=docker,powershell,vscode,git,github,netlify,postman," />  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="50"/>  
+**DevOps & Tools:** <img src="https://skillicons.dev/icons?i=docker,powershell,vscode,git,github,netlify,postman," /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="50"/>  
 
 **Design & Collaboration:** <img src="https://skillicons.dev/icons?i=figma,ps,ai,slack" />
 
