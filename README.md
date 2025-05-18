@@ -10,7 +10,7 @@
 
 <div align="center">
   
- <h3>💻 From Product Design Researcher to Software Developer, merging design thinking and user-centered insight with programming.</h3> 
+ <h3>💻 From Product Design Researcher to Software Developer<br>Merging design thinking and user-centered insight with programming.</h3> 
 
 </div>
 
