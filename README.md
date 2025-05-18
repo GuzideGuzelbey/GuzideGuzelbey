@@ -8,12 +8,10 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=100&color=9be9a8&center=true&vCenter=true&multiline=true&width=440&height=89&lines=Software+Developer;BSc+%26+MSc;Product+Design" alt="Typing SVG" /></a>
 </h2> 
 
-<div align="center">
   
- <h3 style="color:#39d353;">💻 From Product Design Researcher to Software Developer</h3> 
- <h4 style="color:#39d353;">Merging design thinking and user-centered insight with programming</h4>
+<h3 align="center" style="color:#39d353;">💻 From Product Design Researcher to Software Developer</h3>
+<h4 align="center" style="color:#39d353;">Merging design thinking and user-centered insight with programming</h4>
 
-</div>
 
 
 ### :wink: **Fun Fact about me**  
