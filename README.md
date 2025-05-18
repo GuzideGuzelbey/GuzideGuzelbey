@@ -9,8 +9,12 @@
 </h2> 
 
   
-<h3 align="center" style="color:#39d353;">💻 From Product Design Researcher to Software Developer</h3>
-<h4 align="center" style="color:#39d353;">Merging design thinking and user-centered insight with programming</h4>
+<p align="center">
+    <img src="https://img.shields.io/badge/-💻%20From%20Product%20Design%20Researcher%20to%20Software%20Developer-39d353?style=for-the-badge" />
+    <br>
+    <img src="https://img.shields.io/badge/-Merging%20design%20thinking%20and%20user--centered%20insight%20with%20programming-39d353?style=for-the-badge" />
+</p>
+
 
 
 
