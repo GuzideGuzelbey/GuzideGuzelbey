@@ -10,8 +10,9 @@
 
   
 <div align="center">
-    <span style="color:#39d353;">💻 From Product Design Researcher to Software Developer</span><br>
-    <span style="color:#39d353;">Merging design thinking and user-centered insight with programming</span>
+    <h3  style="color:#39d353;">💻 From Product Design Researcher to Software Developer</h3>
+    <h4  style="color:#39d353;">Merging design thinking and user-centered insight with programming</h4>
+
 
 </div>
 
