@@ -8,7 +8,7 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=100&color=9be9a8&center=true&vCenter=true&multiline=true&width=440&height=89&lines=Software+Developer;BSc+%26+MSc;Industrial+Product+Design" alt="Typing SVG" /></a>
 </h2> 
 
-## Passionate about building user-centered digital solutions   
+## Passionate about building user-centered software products   
 
 ### :wink: **Fun Fact about me**  
 I am passionate about community building and love bringing people together—whether it's through networking events, singing, dancing, or a good yoga session. 
