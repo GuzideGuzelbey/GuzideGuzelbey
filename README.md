@@ -8,10 +8,7 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=100&color=1DDBF7&center=true&vCenter=true&multiline=true&width=440&height=89&lines=Software+Developer;BSc+%26+MSc;Industrial+Product+Design" alt="Typing SVG" /></a>
 </h2> 
 
-### **A Career switcher** from Industrial Product Design to **Software Development**   
-<p>
-  Passionate about building user-centered digital solutions
-</p>
+### Passionate about building user-centered digital solutions   
 
 ### :wink: **Fun Fact about me**  
 I am passionate about community building and love bringing people together—whether it's through networking events, singing, dancing, or a good yoga session. 
@@ -37,7 +34,7 @@ I am passionate about community building and love bringing people together—whe
 
 |  DevOps & Tools |  Design & Collaboration |
 | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=docker,powershell,vscode,git,github,netlify,postman" height="40" /> | <img src="https://skillicons.dev/icons?i=figma,ps,ai,slack" height="40" /> |
+| <img src="https://skillicons.dev/icons?i=docker,git,github,netlify,postman" height="40" /> | <img src="https://skillicons.dev/icons?i=figma,ps,ai,slack" height="40" /> |
 
 ### **Badges & Stats:**  
 <p align="left">
