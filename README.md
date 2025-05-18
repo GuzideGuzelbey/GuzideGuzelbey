@@ -30,7 +30,7 @@ I am passionate about community building and love bringing people together—whe
 ### **Skills:**  
 | Frontend Development | Backend Development |
 | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,materialui,react,nextjs" height="40" /> | <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,postgres" height="40" /> |
+| <img src="https://skillicons.dev/icons?i=react,nextjs,js,materialui,html,css,bootstrap" height="40" /> | <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,postgres" height="40" /> |
 
 |  DevOps & Tools |  Design & Collaboration |
 | :---: | :---: |
