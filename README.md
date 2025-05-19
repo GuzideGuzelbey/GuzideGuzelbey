@@ -17,10 +17,6 @@
 
 ---
 
-
-### :wink: **Fun Fact about me:**  
-I am passionate about community building and love bringing people together—whether it's through networking events, singing, dancing, or a good yoga session. 
-
 ### **Currently Learning:**  
 -  **SQL & Python for Data Analytics**  
 -  **Advanced Next.js features**
@@ -34,6 +30,9 @@ I am passionate about community building and love bringing people together—whe
     <img src="https://img.icons8.com/?size=100&id=38158&format=png&color=FFFFFF" alt="Gmail" height="35" />
   </a>
 </p>  
+
+### :wink: **Fun Fact about me:**  
+I am passionate about community building and love bringing people together—whether it's through networking events, singing, dancing, or a good yoga session. 
 
 ### **Skills:**  
 | Frontend Development | Backend Development |
