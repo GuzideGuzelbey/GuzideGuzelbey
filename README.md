@@ -34,7 +34,7 @@
 ### :wink: **Fun Fact about me:**  
 I am passionate about community building and love bringing people together—whether it's through networking events, singing, dancing, or a good yoga session. 
 
-### **Teckstack:**  
+### **Techstack:**  
 | Frontend Development | Backend Development |
 | :---: | :---: |
 | <img src="https://skillicons.dev/icons?i=react,nextjs,js,materialui,html,css,bootstrap" height="40" /> | <img src="https://skillicons.dev/icons?i=nodejs,express,mysql" height="40" /> |
