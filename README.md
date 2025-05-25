@@ -57,7 +57,7 @@ I am passionate about community building and love bringing people together—whe
 </p>
 
 <img align="right"
-     src="https://visitor-badge.laobi.icu/badge?page_id=GuzideGuzelbey.GuzideGuzelbey&type=flat-square&left_color=%23333333&right_color=%234D4D4D"
+     src="https://count.getloli.com/get/@GuzideGuzelbey?theme=rule34"
      alt="Visitor Badge" />
 
 
