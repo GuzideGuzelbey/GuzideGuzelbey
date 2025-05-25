@@ -56,7 +56,7 @@ I am passionate about community building and love bringing people together—whe
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuzideGuzelbey&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
-<img align="right" src="https://vbr.wocr.tk/badge?page_id=GuzideGuzelbey.GuzideGuzelbey" alt="Visitor Count" />
+<img align="right" src="https://vbr.nathanchung.dev/badge?page_id=GuzideGuzelbey.GuzideGuzelbey" alt="Visitor Count" />
 
 
 
