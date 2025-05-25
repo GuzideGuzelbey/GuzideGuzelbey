@@ -56,7 +56,7 @@ I am passionate about community building and love bringing people together—whe
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuzideGuzelbey&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
-<img align="right" src="https://komarev.com/ghpvc/?username=GuzideGuzelbey" alt="Profile views" />
+<img align="right" src="https://komarev.com/ghpvc/?username=GuzideGuzelbey&label=Visitors&left_color=%23333333&right_color=%234D4D4D" alt="Profile views" />
 
 
 
