@@ -57,7 +57,7 @@ I am passionate about community building and love bringing people together—whe
 </p>
 
 <img align="right"
-     src="https://count.getloli.com/get/@GuzideGuzelbey?theme=moebooru"
+     src="https://count.getloli.com/get/@GuzideGuzelbey?theme=git"
      alt="Visitor Badge" />
 
 
