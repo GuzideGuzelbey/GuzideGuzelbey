@@ -18,7 +18,8 @@
 ---
 
 ### **Currently Learning:**  
--  **SQL & Python for Data Analytics**  
+-  **Typescript**
+-  **Tailwind CSS** 
 -  **Advanced Next.js features**
 
 ### **Reach me via:**  
