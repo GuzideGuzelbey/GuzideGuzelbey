@@ -38,7 +38,7 @@ I am passionate about community building and love bringing people together—whe
 ### **Techstack:**  
 | Frontend Development | Backend Development |
 | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=react,nextjs,js,materialui,html,css,bootstrap, tailwind" height="40" /> | <img src="https://skillicons.dev/icons?i=nodejs,express,mysql" height="40" /> |
+| <img src="https://skillicons.dev/icons?i=react,nextjs,js,materialui,html,css,bootstrap,tailwind" height="40" /> | <img src="https://skillicons.dev/icons?i=nodejs,express,mysql" height="40" /> |
 
 |  DevOps & Tools |  Design & Collaboration |
 | :---: | :---: |
