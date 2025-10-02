@@ -40,9 +40,9 @@ I am passionate about community building and love bringing people together—whe
 | :---: | :---: |
 | <img src="https://skillicons.dev/icons?i=react,nextjs,js,materialui,html,css,bootstrap,tailwind" height="40" /> | <img src="https://skillicons.dev/icons?i=nodejs,express,mysql" height="40" /> |
 
-|  DevOps & Tools |  Design & Collaboration |
-| :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=docker,git,github,netlify,postman" height="40" /> | <img src="https://skillicons.dev/icons?i=figma,ps,ai,slack" height="40" /> |
+|  DevOps & Tools |  Design & Collaboration | Q&A
+| :---: | :---: | :---: |
+| <img src="https://skillicons.dev/icons?i=docker,git,github,netlify,postman" height="40" /> | <img src="https://skillicons.dev/icons?i=figma,ps,ai,slack" height="40" /> | <img src="https://skillicons.dev/icons?i=jest" height="40" /> |
 
 ### **Badges & Stats:**  
 <p align="left">
