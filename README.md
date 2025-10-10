@@ -17,7 +17,8 @@
 
 ---
 
-### **Currently Learning:**  
+### **Currently Learning:**
+-  **Algorithims** 
 -  **Accessibilty for Developers MasterClass w Merkle** 
 -  **Typescript**
 -  **Advanced Next.js features**
