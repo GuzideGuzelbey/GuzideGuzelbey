@@ -11,7 +11,7 @@
 
   
 <div align="center">
-    <h3>💻 I speak tech, design, and people</h3>
+    <h3>I speak tech, design, and people ✨</h3>
     <h4  style="font-weight:300;">Merging design thinking and user-centered insight with programming</h4>
 </div>
 
