@@ -18,10 +18,9 @@
 ---
 
 ### **Currently Learning:**
--  **Algorithms** 
--  **Accessibilty for Developers and Testers MasterClass w Merkle** 
--  **Typescript**
--  **Advanced Next.js features**
+-  **IOT at Aarhus University** 
+-  **Algorithms**
+-  **Elements of AI w MinnaLearn** 
 
 ### **Reach me via:**  
 <p align="left">
