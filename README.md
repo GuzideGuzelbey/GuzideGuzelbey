@@ -19,7 +19,7 @@
 
 ### **Currently Learning:**
 -  **IOT at Aarhus University** 
--  **Algorithms**
+-  **Algorithmic Thinking**
 -  **Elements of AI w MinnaLearn** 
 
 ### **Reach me via:**  
