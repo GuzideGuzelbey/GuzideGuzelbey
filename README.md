@@ -33,7 +33,7 @@
 </p>  
 
 ### :wink: **Fun Fact about me:**  
-I am passionate about community building and love bringing people together—whether it's through networking events, board-games, dancing, or a good yoga session. 
+I am passionate about community building and love bringing people together - whether it's through networking events, board-games, dancing, or a good yoga session. 
 
 ### **Techstack:**  
 | Frontend Development | Backend Development |
