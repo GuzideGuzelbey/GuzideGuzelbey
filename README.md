@@ -19,7 +19,7 @@
 
 ### **Currently Learning:**
 -  **IOT at Aarhus University** - completed
--  **Algorithmic Thinking**
+-  **Algorithmic Thinking** - takes time!
 -  **Elements of AI w MinnaLearn and University of Helsinki** - completed
 
 ### **Reach me via:**  
