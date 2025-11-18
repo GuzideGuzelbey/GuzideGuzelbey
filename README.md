@@ -12,7 +12,7 @@
   
 <div align="center">
     <h3>I speak tech, design, and people ✨</h3>
-    <h4  style="font-weight:300;">Merging design thinking and user-centered insight with programming</h4>
+    <h4  style="font-weight:300;">I see connections others miss because I've been a designer, tester, teacher, and performer. Always curious. </h4>
 </div>
 
 ---
