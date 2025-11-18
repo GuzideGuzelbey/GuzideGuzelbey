@@ -33,7 +33,7 @@
 </p>  
 
 ### :wink: **Fun Fact about me:**  
-I am passionate about community building and love bringing people together - whether it's through networking events, board-games, dancing, or a good yoga session. 
+Creative maker who codes -> From art & stage to software & systems -> Product person always chasing the new -> I feel alive when experimenting with tech & working with people 
 
 ### **Techstack:**  
 | Frontend Development | Backend Development |
