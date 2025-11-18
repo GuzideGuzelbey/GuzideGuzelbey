@@ -22,16 +22,6 @@
 -  **Algorithmic Thinking** - takes time!
 -  **Elements of AI w MinnaLearn and University of Helsinki** - completed
 
-### **Reach me via:**  
-<p align="left">
-  <a href="https://bit.ly/4kqoEq9" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=8808&format=png&color=FFFFFF" alt="LinkedIn" height="35" />
-  </a>
-  <a href="mailto:guzide.guzelbey@gmail.com" target="_blank" >
-    <img src="https://img.icons8.com/?size=100&id=38158&format=png&color=FFFFFF" alt="Gmail" height="35" />
-  </a>
-</p>  
-
 ### :wink: **Fun Fact about me:**  
 Creative maker who codes -> From art & stage to software & systems -> Product person always chasing the new -> I feel alive when experimenting with tech & working with people 
 
