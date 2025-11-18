@@ -18,8 +18,10 @@
 ---
 
 ### **Currently Learning:**
+-  **Introduction to Python**
+-  **Algorithmic Thinking** - takes time :)
+-  **Energy Efficient Software Architecture at Aarhus University** - completed
 -  **IOT at Aarhus University** - completed
--  **Algorithmic Thinking** - takes time!
 -  **Elements of AI w MinnaLearn and University of Helsinki** - completed
 
 ### :wink: **Fun Fact about me:**  
