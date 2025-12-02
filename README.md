@@ -44,7 +44,7 @@ Creative maker who codes -> From art & stage to software & systems -> Product pe
   </a>
 </p>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=GuzideGuzelbey&show_icons=true&theme=light" alt="GitHub Stats" />  
+  <img src="https://github-readme-stats.vercel.app/api?username=GuzideGuzelbey&show_icons=true&theme=dark" alt="GitHub Stats" />  
 </p>  
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuzideGuzelbey&layout=compact&theme=dark" alt="Top Languages" />
