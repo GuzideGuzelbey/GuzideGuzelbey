@@ -18,6 +18,7 @@
 ---
 
 ### **Currently Learning:**
+-  **Umbraco Fundamentals Certification**
 -  **Introduction to Python**
 -  **Algorithmic Thinking** - takes time :)
 -  **Energy Efficient Software Architecture at Aarhus University** - completed
