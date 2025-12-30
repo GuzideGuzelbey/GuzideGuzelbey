@@ -44,7 +44,7 @@ Creative maker who codes -> From art & stage to software & systems -> Product pe
   </a>
 </p>
 <p align="left">
-  <img width="438" height="459" alt="umbraco_badge" src="https://github.com/user-attachments/assets/9105472c-5780-419b-a146-65e8569edb95" />
+  <img width="43" height="45" alt="umbraco_badge" src="https://github.com/user-attachments/assets/9105472c-5780-419b-a146-65e8569edb95" />
 </p> 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=GuzideGuzelbey&show_icons=true&theme=dark" alt="GitHub Stats" />  
