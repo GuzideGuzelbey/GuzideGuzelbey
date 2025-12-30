@@ -47,7 +47,7 @@ Creative maker who codes -> From art & stage to software & systems -> Product pe
   <img width="64.5" height="67.5" alt="umbraco_badge" src="https://github.com/user-attachments/assets/9105472c-5780-419b-a146-65e8569edb95" />
 </p> 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=GuzideGuzelbey&show_icons=true&theme=dark" alt="GitHub Stats" />  
+  ![GitHub Profile](https://gh-readme-profile.vercel.app/api?username=FajarKim&theme=dark)
 </p>  
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuzideGuzelbey&layout=compact&theme=dark" alt="Top Languages" />
