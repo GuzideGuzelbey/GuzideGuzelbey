@@ -50,7 +50,7 @@ Creative maker who codes -> From art & stage to software & systems -> Product pe
   <img src="https://github-readme-stats-plus-theta.vercel.app/api?username=GuzideGuzelbey&show_icons=true&theme=dark" alt="GitHub Stats" />
 </p> 
 <p align="left">
-  <img src="https://github-readme-stats-plus-theta.vercel.app/api/top-langs/?username=GuzideGuzelbey" alt="Top Languages" />
+  <img src="https://github-readme-stats-plus-theta.vercel.app/api/top-langs/?username=GuzideGuzelbey&theme=dark&show_icons=true" alt="Top Languages" />
 </p>
 
 <img align="right" src="https://komarev.com/ghpvc/?username=GuzideGuzelbey&label=Visitors&color=%234D4D4D" alt="Profile views" />
