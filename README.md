@@ -39,15 +39,15 @@ Creative maker who codes -> From art & stage to software & systems -> Product pe
 
 ### **Badges & Stats:**  
 <p align="left">
-    <a href="https://www.codewars.com/users/GuzideGuzelbey" target="_blank">
-    <img src="https://www.codewars.com/users/GuzideGuzelbey/badges/micro" alt="Codewars Badge" height="40" />
-    <a href="https://umbraco.com/training/certified-developers/developer/?uid=44999" target="_blank">
-    <img width="64.5" height="67.5" alt="umbraco_badge" src="https://github.com/user-attachments/assets/9105472c-5780-419b-a146-65e8569edb95" />
-  </a>
+    <p justify-self="center">
+        <a href="https://www.codewars.com/users/GuzideGuzelbey" target="_blank">
+        <img src="https://www.codewars.com/users/GuzideGuzelbey/badges/micro" alt="Codewars Badge" height="40" />
+    </p>
+    <p justify-self="center">
+        <a href="https://umbraco.com/training/certified-developers/developer/?uid=44999" target="_blank">
+        <img width="64.5" height="67.5" alt="umbraco_badge" src="https://github.com/user-attachments/assets/9105472c-5780-419b-a146-65e8569edb95" />
+    </p>
 </p>
-<p align="left">
-  
-</p> 
 <p align="left">
   <img src="https://github-readme-stats-plus-theta.vercel.app/api?username=GuzideGuzelbey&show_icons=true&theme=dark" alt="GitHub Stats" />
 </p> 
