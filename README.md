@@ -40,7 +40,7 @@ Creative maker who codes -> From art & stage to software & systems -> Product pe
 ### **Badges & Stats:**  
 <p align="left">
     <a href="https://www.codewars.com/users/GuzideGuzelbey" target="_blank">
-    <img src="https://www.codewars.com/users/GuzideGuzelbey/badges/micro" alt="Codewars Badge" height="30" />
+    <img src="https://www.codewars.com/users/GuzideGuzelbey/badges/micro" alt="Codewars Badge" height="40" />
   </a>
 </p>
 <p align="left">
